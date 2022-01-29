@@ -14,9 +14,9 @@
 
                     // pring only the keys
 // d3.json("samples.json").then(function(data) {
-//     secondPerson = data.metadata[1];
-//     Object.entries(secondPerson).forEach(([one,two]) => {console.log(one);})
-// });
+//    [oe,two]) => {console.log(one);})
+// });n secondPerson = data.metadata[1];
+//     Object.entries(secondPerson).forEach((
 
                     // print the key value pairs
 // d3.json("samples.json").then(function(data) {
